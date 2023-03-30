@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+    color: beige;
+}
+
+.indice {
+    color:brown;
+    align-items: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100px ;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+   
+}
+.menu{
+    color:darksalmon;
+    border:solid  1px white;
+   
+   
+}
+   
+
+dl {
+    display: flex;
+   flex-direction:row;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   
+}
+
